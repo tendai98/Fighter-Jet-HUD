@@ -7,7 +7,7 @@
 A side project I worked on how you could try to implement an HUD (Heads Up Display) for a fighter jet.
 I ended up using Android, HTML, Javascript and NodeJS to actually link the HUD to a game I was working on
 
-
+## HUD Video demo
 [![Click to watch the video](screenshots/thumbnail.png)](https://www.youtube.com/watch?v=dxrft8XOl9A&ab_channel=Tendai)
 
 ## Credit
