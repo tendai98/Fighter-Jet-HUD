@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ACE-HUD</string>
+    <string name="radar_mode">NO RAD</string>
+    <string name="speed">00000</string>
+    <string name="control_mode">FLGHT</string>
+    <string name="altitude">ALTDE</string>
+    <string name="mode">A-A</string>
+    <string name="lock_type">MISSILE LOCK</string>
+    <string name="tpod_status">TPOD</string>
+</resources>
