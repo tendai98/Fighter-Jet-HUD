@@ -1,6 +1,9 @@
 # Android - Heads Up Display using HTML, Javascript and Java (Android)
 
-![HUD image](screenshots/3.png)
+## Screenshots
+| ![Screenshot 1](img/1.png) | ![Screenshot 2](img/2.png) |
+|---------------------------------------|---------------------------------------|
+| ![Screenshot 3](img/3.png) | ![Screenshot 4](img/4.png) |
 
 ## Overview
 
@@ -17,4 +20,4 @@ The original project is built on HTML and Javascript but to link the project wit
 I tried using HTTP for everything but it turned out be slow, like the HUD was sooo janky so using UDP and WebSockets make it smooth (especially the pitch ladder animation)
 
 ## Screenshots
-You can find images of them in `screenshots` folder
+You can find images of them in `img` folder
