@@ -1,6 +1,10 @@
 # Android - Heads Up Display using HTML, Javascript and Java (Android)
 
-## Note: You will notice that some of the symbology have different greens because it was experimenting with the color
+![Screenshot 1](img/thumbnail.png)
+
+## Note: 
+ - You will notice that some of the symbology have different greens because it was experimenting with the color
+ - Also some of the screenshots have been inverted, this because the output was meant for reflector system
 
 ## Screenshots
 | ![Screenshot 1](img/1.png) | ![Screenshot 2](img/2.png) |
